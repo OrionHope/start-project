@@ -1,0 +1,27 @@
+{
+  "name": "start-project",
+  "description": "Débuter rapidement et simplement un projet",
+  "main": "gulpfile.js",
+  "authors": [
+    "Orion"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "start",
+    "project"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "grid-scss": "https://github.com/lcjordanweb/grid-scss.git",
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.1.0"
+  }
+}

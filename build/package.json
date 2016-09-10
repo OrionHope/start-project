@@ -1,0 +1,28 @@
+{
+  "name": "start-project",
+  "version": "0.0.1",
+  "description": "Débuter rapidement et simplement un projet",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcjordanweb/start-project.git"
+  },
+  "keywords": [
+    "start",
+    "project"
+  ],
+  "author": "Orion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcjordanweb/start-project/issues"
+  },
+  "homepage": "https://github.com/lcjordanweb/start-project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  }
+}
