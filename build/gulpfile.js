@@ -4,6 +4,11 @@ var gulp = require('gulp'),
 sass = require('gulp-sass'),
 rename = require('gulp-rename');
 
+var pathfile = {
+	sass: "../src/scss",
+	css: "../src/css"
+};
+
 var external = ['../src/bower_components/grid-scss/src/scss'];
 
 gulp.task('sass', function() {
