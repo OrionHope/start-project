@@ -5,7 +5,7 @@ sass = require('gulp-sass'),
 rename = require('gulp-rename');
 
 var pathfile = {
-	sass: "../src/scss",
+	sass: "../src/scss/*.scss",
 	css: "../src/css"
 };
 
